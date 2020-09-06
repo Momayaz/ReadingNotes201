@@ -29,14 +29,14 @@ all support the same video and audio formats, so you
 need to supply your files in different formats to ensure
 that everyone can see/hear them.
 ## CSS Associates Style rules with HTML elements
-<style>
-## Using Internal CSS
+
+ Using Internal CSS
 You can also include CSS rules
 within an HTML page by placing
-them inside a <style> element,
+them inside a <styl e> element,
 which usually sits inside the
-<head> element of the page.
-The <style> element should use
+<head > element of the page.
+The < style > element should use
 the type attribute to indicate
 that the styles are specified in
 CSS. The value should be text/
@@ -90,8 +90,8 @@ just like on a television screen.
 
 * Superscript &
 Subscrip
-<sup>
-The <sup> element is used
+<sup >
+The <su p> element is used
 to contain characters that
 should be superscript such
 as the suffixes of dates or
@@ -99,78 +99,78 @@ mathematical concepts like
 raising a number to a power such
 as 22
 .
-<sub>
-The <sub> element is used to
+<su b>
+The <su b> element is used to
 contain characters that should
 be subscript. It is commonly
 used with foot notes or chemical
 formulas such as H2
-* <br />
+* <b r />
 As you have already seen, the
 browser will automatically show
 each new paragraph or heading
 on a new line. But if you wanted
 to add a line break inside the
 middle of a paragraph you can
-use the line break tag <br />.
-* <hr />
+use the line break tag <b r />.
+* <h r />
 To create a break between
 themes — such as a change of
 topic in a book or a new scene
 in a play — you can add a
 horizontal rule between sections
-using the <hr /> tag.
-* <strong>
-The use of the <strong>
+using the <h r /> tag.
+* <str ong>
+The use of the <st rong>
 element indicates that its
 content has strong importance.
 For example, the words
 contained in this element might
 be said with strong emphasis.
 By default, browsers will show
-the contents of a <strong>
+the contents of a <stro ng>
 element in bold.
-* <em>
-The <em> element indicates
+* <e m>
+The <e m> element indicates
 emphasis that subtly changes
 the meaning of a sentence.
 By default browsers will show
-the contents of an <em> element
+the contents of an <e m> element
 in italic.
-* <blockquote>
-The <blockquote> element is
+* <bloc kquote>
+The <bloc kquote> element is
 used for longer quotes that take
 up an entire paragraph. Note
-how the <p> element is still
-used inside the <blockquote>
+how the < p> element is still
+used inside the <block quote>
 element.
 Browsers tend to indent the
-contents of the <blockquote>
+contents of the <block quote>
 element, however you should not
 use this element just to indent a
 piece of text — rather you should
 achieve this effect using CSS. 
-* <q>
-The <q> element is used for
+* <q >
+The < q> element is used for
 shorter quotes that sit within
 a paragraph. Browsers are
 supposed to put quotes around
-the <q> element, however
+the <q > element, however
 Internet Explorer does not —
 therefore many people avoid
-using the <q> element.
-* The <table> element is used to add tables to a web
+using the <q > element.
+* The <tabl e> element is used to add tables to a web
 page.
 * A table is drawn out row by row. Each row is created
-with the <tr> element.
+with the <tr > element.
 * Inside each row there are a number of cells
-represented by the <td> element (or <th> if it is a
+represented by the < td> element (or < th> if it is a
 header).
 * You can make cells of a table span more than one row
 or column using the rowspan and colspan attributes.
-* For long tables you can split the table into a <thead>,
-<tbody>, and <tfoot>.
-<input>
+* For long tables you can split the table into a <th ead>,
+<t body>, and <tf oot>.
+<in put>
 type="password"
 When the type attribute has
 a value of password it creates

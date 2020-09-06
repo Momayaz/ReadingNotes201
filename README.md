@@ -2,8 +2,8 @@
 ## This web site shows the summries of daily reading.i made this repository to be my reference to get back anytime anywhere. i put a lot of useful information about varies topics related to html,css and javascript.  
 
 # 1. [Read1](./Read1.md) 
-# 2. [Read2](./Read2.md) 
-# 3. [Read3](./Read3.md) 
+# 2. [class02](./class02.md) 
+# 3. [Read3](./Read3moذ.md) 
 # 4. [Read4](./Read4.md) 
 # 5. [Read5](./Read5.md) 
 # 6. [Read6](./Read6.md) 

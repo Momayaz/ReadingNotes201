@@ -9,5 +9,6 @@ The fact that these insights arenâ€™t wholly original doesnâ€™t mean G
 Project Aristotle is a reminder that when companies try to optimize everything, itâ€™s sometimes easy to forget that success is often built on experiences â€” like emotional interactions and complicated conversations and discussions of who we want to be and how our teammates make us feel â€” that canâ€™t really be optimized. Rozovsky herself was reminded of this midway through her work with the Project Aristotle team. â€˜â€˜We were in a meeting where I made a mistake,â€™â€™ Rozovsky told me. She sent out a note afterward explaining how she was going to remedy the problem. â€˜â€˜I got an email back from a team member that said, â€˜Ouch,â€™â€‰â€™â€™ she recalled. â€˜â€˜It was like a punch to the gut. I was already upset about making this mistake, and this note totally played on my insecurities.â€™â€™
 
 If this had happened earlier in Rozovskyâ€™s life â€” if it had occurred while she was at Yale, for instance, in her study group â€” she probably wouldnâ€™t have known how to deal with those feelings. The email wasnâ€™t a big enough affront to justify a response. But all the same, it really bothered her. It was something she felt she needed to address.
+....................
 
 

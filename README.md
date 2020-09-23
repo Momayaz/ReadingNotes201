@@ -1,20 +1,21 @@
 # Code 201 Reading Notes
 ## This web site shows the summries of daily reading.i made this repository to be my reference to get back anytime anywhere. i put a lot of useful information about varies topics related to html,css and javascript.  
 
-# 1. [Read1](./Read1.md) 
-# 2. [Read2](./Read2.md) 
-# 3. [Read3](./Read3.md) 
-# 4. [Read4](./Read4.md) 
-# 5. [Read5](./Read5.md) 
-# 6. [Read6](./Read6.md) 
-# 7. [Read7](./Read7.md) 
-# 8. [Read8](./Read8.md) 
-# 9. [Read9](./Read9.md) 
-# 10. [Read10](./Read10.md) 
-# 11. [Read11](./Read11.md) 
-# 12. [Read12](./Read12.md) 
-# 13. [Read13](./Read13.md) 
-# 14. [Read14](./Read14.md) 
+# 1. [Read1](./Read1.md). 
+# 2. [Read2](./Read2.md). 
+# 3. [Read3](./Read3.md). 
+# 4. [Read4](./Read4.md). 
+# 5. [Read5](./Read5.md). 
+# 6. [Read6](./Read6.md). 
+# 7. [Read7](./Read7.md). 
+# 8. [Read8](./Read8.md). 
+# 9. [Read9](./Read9.md). 
+# 10. [Read10](./Read10.md). 
+# 11. [Read11](./Read11.md). 
+# 12. [Read12](./Read12.md). 
+# 13. [Read13](./Read13.md). 
+# 14. [Read14a](./Read14a.md). 
+# 15. [Read14b](./Read14b.md).
 
 ### we have a lot of features of markdown:
 1. *we can make text bold by using four stars*****(**word**).

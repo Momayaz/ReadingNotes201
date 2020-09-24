@@ -184,7 +184,7 @@ see sensitive data such as
 passwords.
 ________________
 JQUERY
-The examples in this chapter revisit the list application used in the previous two chapters, and they will use jQuery to update the content of the page. <script src="j s/ jquery-1 .11. 0 .js "></script>
+The examples in this chapter revisit the list application used in the previous two chapters, and they will use jQuery to update the content of the page. ```<script src="j s/ jquery-1 .11. 0 .js "></script>```
 
 WHY USE JQUERY?
 jQuery doesn't do anything you cannot achieve with pure JavaScript. It is just a JavaScript file but estimates show it has been used on over a quarter of the sites on the web, because it makes coding simpler.
@@ -204,18 +204,22 @@ GETTING ELEMENT CONTENT
 The â€¢ htm 1 () and â€¢ text () methods both retrieve and update the content of elements. This page will focus on how to retrieve element content. To learn how to update element content.
 
 GETTING AT CONTENT
-On this page you can see variations on how the . html() and . text() methods are used on the same list (depending on whether <ul >or <l i > elements are used in the selector). var $listHTML = ${'ul') . html(}; $ ( 'ul '). append($1 i stHTML);
+On this page you can see variations on how the . html() and . text() methods are used on the same list (depending on whether ```<ul >```or ```<li>``` elements are used in the selector). var $listHTML = ${'ul') . html(}; $ ( 'ul '). append($1 i stHTML);
 
 UPDATING ELEMENTS
 Here are four methods that update the content of all elements in a jQuery selection .
 
 BASIC EFFECTS
-In this example, it appears as if list items are faded into view when the page loads. Each item is faded out when it is clicked on. $(function() { $('h2').hide().slideDown(); var $li = $('li'); $li.hide().each{function(index) { 2 $(this).delay(700 * index) .fadeln(?OO); } ) ; 3 $li.on('click', function() $(this) .fade0ut(700); } ) ; } ) ;
+In this example, it appears as if list items are faded into view when the page loads. Each item is faded out when it is clicked on.
+```
+ $(function() { $('h2').hide().slideDown(); var $li = $('li'); $li.hide().each{function(index) { 2 $(this).delay(700 * index) .fadeln(?OO); } ) ; 3 $li.on('click', function() $(this) .fade0ut(700); } ) ; } ) ;
+```
 
 ANIMATING CSS
 The .animate() method allows you to create some of your own effects and animations by changing CSS properties.
-
+```
 $(function() { $(' l i').on( 'click', function() { ~ $(this).animate({ ~r opacity : 0.0, ~ paddingleft: '+=80' @ } , 500, function() { ~ $(this).remove(); } ) ; } ) ; } ) ;
+```
 
 All list items are selected and, when a user clicks on one of them, an anonymous function runs. Inside it, $(this) creates a new jQuery object holding the element the user clicked on. The .animate() method is then called on that jQuery object.
 
